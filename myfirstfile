@@ -5,3 +5,4 @@ im trying to learn the Git and Github from scratch.
 im learning about git commit and git add command now.
 git add  will the file to the staging area
 git commit stages all the files of your current working directory
+git log will lists all the commit history made on your current branch in the local repository
