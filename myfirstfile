@@ -5,6 +5,11 @@ im trying to learn the Git and Github from scratch.
 im learning about git commit and git add command now.
 <<<<<<< HEAD
 git add  will the file to the staging area
+<<<<<<< HEAD
 git commit stages all the files of your current working directory
 =======
 >>>>>>> parent of 122e17d (added line what is git add)
+=======
+git commit stages all the files of the working directory in the local repository
+git log will lists all the commit history made on your current branch in the local repository
+>>>>>>> develop
